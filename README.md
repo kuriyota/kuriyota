@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**kuriyota/kuriyota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi there 👋, I'm 「Kuriyota」.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Chinese senior high school Student, tech otaku, casual anime enthusiast, and hobby-driven developer.
+
+[Personal Website](https://kuriyoto.com/)
+
+Find me on [Bilibili](https://space.bilibili.com/650631530) and [X / Twitter](https://x.com/cn_Kuriyota).
+
+![Kuriyota's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuriyota&show_icons=true&text_bold=true&hide_rank=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuriyota)
