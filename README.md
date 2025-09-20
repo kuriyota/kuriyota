@@ -8,7 +8,7 @@ A Chinese senior high school Student, tech otaku, casual anime enthusiast, and h
 
 Find me on [Bilibili(哔哩哔哩)](https://space.bilibili.com/650631530) and [X / Twitter](https://x.com/cn_Kuriyota).
 
-[Personal Website](https://kuriyoto.com/)
+[Personal Website](https://kuriyota.com/)
 
 ![Kuriyota's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuriyota&show_icons=true&text_bold=true&hide_rank=true)
 
